@@ -1,0 +1,44 @@
+# Relatório da Disciplina: Programação de Computadores
+
+### Ementa da Disciplina
+A disciplina de Programação de Computadores oferece uma introdução aos conceitos fundamentais de programação e lógica computacional. São abordados os seguintes tópicos:
+
+- **Conceitos Básicos**: Compreensão sobre computadores, incluindo hardware, software, sistemas operacionais e compiladores.
+- **Representação de Dados**: Estruturação interna de dados e introdução às linguagens de programação.
+- **Resolução de Problemas**: Análise e solução de problemas com desenvolvimento e documentação de algoritmos.
+- **Estruturas de Algoritmos**: Utilização de variáveis, entrada e saída, decisões e estruturas de repetição.
+- **Modularização**: Criação de programas modulares com procedimentos, funções e parâmetros.
+- **Tipos de Dados**: Trabalho com tipos de dados compostos, como vetores, matrizes, strings e registros.
+- **Manipulação de Arquivos**: Operações de entrada e saída com arquivos.
+- **Recursividade e Depuração**: Aplicação de algoritmos recursivos e depuração de programas para correção de erros.
+
+### Justificativa
+O conteúdo da disciplina é fundamental para o desenvolvimento de lógica de programação, sendo essencial para a construção de programas e sistemas computacionais. Esse aprendizado inicial é a base para o progresso ao longo do curso de Ciência da Computação e para a carreira profissional.
+
+### Objetivo Geral
+Introduzir a programação de computadores como uma metodologia de raciocínio construtivo, aplicável a problemas que possuem solução algorítmica, e ensinar uma linguagem de programação amplamente utilizada (Python).
+
+### Objetivos Específicos
+- Desenvolver a habilidade de criar algoritmos para solução de problemas computacionais.
+- Aprender a programar em uma linguagem de alto nível (Python).
+- Capacitar na depuração e documentação de algoritmos.
+- Elaborar algoritmos recursivos.
+
+### Conteúdo Programático
+1. Conceito de desenvolvimento de algoritmos e programação de computadores
+2. Boas práticas de programação
+3. Conceitos elementares de eficiência de algoritmos
+4. Variáveis e expressões
+5. Comandos sequenciais
+6. Comandos de decisão e repetição
+7. Entrada e saída de dados
+8. Vetores e matrizes
+9. Estrutura de dados elementar e registros
+10. Funções
+11. Recursividade
+12. Conceitos de alocação dinâmica de memória
+13. Programação em linguagem Python
+
+---
+
+Esse relatório oferece uma visão geral sobre a disciplina e serve como referência para os conteúdos abordados e desenvolvidos ao longo do curso.
