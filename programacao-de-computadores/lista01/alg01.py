@@ -1,7 +1,7 @@
 ########################################
 #Programa: alg01.py || lista01
 # Autor: Raissa Cavalcanti
-# Descrição: Leitura de números inteiros
+# Descrição: Leitura de números inteiros 
 ########################################
 
 primeiro_numero = int(input("Digite o primeiro número: \n"))
