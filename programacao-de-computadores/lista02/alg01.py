@@ -1,7 +1,7 @@
 ########################################
 #Programa: alg01.py || lista02
 # Autor: Raissa Cavalcanti
-# Descrição: Impressão de Valores (0-5) 
+# Descrição: Impressão de Valores (0-5)
 ########################################
 
 # Contador
